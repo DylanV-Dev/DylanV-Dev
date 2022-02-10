@@ -19,5 +19,5 @@
 ---
 
 ![](https://komarev.com/ghpvc/?username=DylanV-Dev&color=yellow)
-![](https://img.shields.io/badge/Experience-Beginner%20%2F%20Intermediate-green)
+![](https://img.shields.io/badge/Experience-Junior-green)
 ![](https://img.shields.io/badge/Languages-Fran%C3%A7ais%20%2F%20English%20-blue)
